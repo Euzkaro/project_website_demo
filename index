@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>My Bio</title>
+    </head>
+
+    <body>
+        <h1>Euzkaro Viscaino</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Han_Solo_depicted_in_promotional_image_for_Star_Wars_%281977%29.jpg/220px-Han_Solo_depicted_in_promotional_image_for_Star_Wars_%281977%29.jpg" alt="My alter ego">
+        <br>
+        <h2>About Me:</h2>
+        <p>Vestibulum et porttitor lacus. Ut fringilla pellentesque mauris nec feugiat. Integer bibendum erat et enim accumsan maximus. Aliquam sed elementum mauris. Fusce sagittis ornare nibh ut sollicitudin. Nulla non quam nec mauris vehicula suscipit. Aenean lacus tellus, sollicitudin ut tincidunt eu, eleifend a sapien. Vestibulum nec urna vel ex tristique lacinia a sed metus. Donec varius pulvinar fermentum. Morbi ex purus, condimentum eu leo nec, egestas lobortis metus. Aenean in lacus bibendum, iaculis nisi sit amet, ornare arcu. Cras aliquet mollis eros a fermentum. Maecenas at vestibulum sapien. Quisque tincidunt mauris est, in dignissim diam euismod vel. Phasellus luctus ornare lacus, at tincidunt magna condimentum sed. Morbi porta, sapien a scelerisque accumsan, tellus lorem varius nisl, sit amet cursus neque mi at massa.</p>
+        <p>Proin et sem in tortor hendrerit hendrerit sit amet sit amet massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut velit luctus, rutrum neque nec, interdum quam. Mauris vitae elit vel mi posuere auctor ac a quam. Phasellus congue, mauris a congue fringilla, mi turpis vehicula massa, et blandit nibh quam nec enim. Nam laoreet elit et neque facilisis viverra. Praesent in velit lectus. Ut a fringilla enim. Maecenas quis nibh cursus, fermentum dui non, molestie nisi. Suspendisse ultricies vulputate eleifend. Sed non nisi vitae ipsum dictum iaculis non sit amet nulla. Etiam mollis porttitor fermentum. Sed nibh sapien, aliquet ut eleifend eget, euismod a diam.</p>
+        <br>
+        <h2>My Social Media</h2>
+        <a href="" target="_blank">LinkedIn</a>
+        <br>
+        <a href="">FaceBook</a>
+        <br>
+        <a href="">YouTube Channel</a>
+
+        <h2>My Favorite Stuff</h2>
+        <table border="1">
+                <thead>
+                        <th>Favorite Movies</th>
+                        <th>Favorite Songs</th>
+                        <th>Favorite Books</th>
+                        
+                </thead>
+
+                <tr>
+                    <td>1</td>
+                    <td>2</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>5</td>
+                    <td>6</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>8</td>
+                    <td>9</td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>11</td>
+                    <td>12</td>
+                </tr>
+
+        </table>
+
+
+    </body>
+
+
+
+</html>
